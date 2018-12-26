@@ -6,6 +6,7 @@
          <Label text="Welcome to The Geogrsdhfjkashdfjkhjapher"/>
          <Image src="res://icon" stretch="none"/>
          <Slider v-model="value" />
+         <WebView src="http://nativescript-vue.org/" />
      </StackLayout>
     </Page>
 </template>
